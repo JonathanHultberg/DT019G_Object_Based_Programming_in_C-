@@ -1,0 +1,60 @@
+## Visual Studio cache and build folders
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+
+## Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sln
+*.vcxproj
+*.user
+*.filters
+
+## Compiled binaries
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+
+## Logs
+*.log
+
+## Test results
+TestResult*/
+*.trx
+*.coverage
+*.coveragexml
+
+## NuGet
+*.nupkg
+packages/
+.nuget/
+
+## VS Code (om du använder ibland)
+.vscode/
+
+## CMake (om projektet använder det)
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+build/
+
+/bin/
+/out/
+*.class
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Projekt .df40dcc8/
+maze/
+'Lab 2'/
+'Lab 1'/
