@@ -14,6 +14,7 @@
 #include <utility>
 #include <string>
 #include <cctype>
+#include <algorithm>
 
 
 class Maze {
